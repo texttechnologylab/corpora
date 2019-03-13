@@ -2,7 +2,7 @@
 
 ## text2ddc Corpus
 
-The corpus contains 46 DDC-annotated Wikipedia files in the following format:
+The corpus contains DDC-annotated Wikipedia files for 46 languages in the following format:
 
 ```
 ddc_ids \t ddc_class_names \t wikipedia_id \t wikipedia_title \t wikipedia_text

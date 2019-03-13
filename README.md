@@ -4,7 +4,8 @@
 
 The corpus contains 46 DDC-annotated Wikipedia files in the following format:
 
-```ddc_ids \t ddc_class_names \t wikipedia_id \t wikipedia_title \t wikipedia_text
+```
+ddc_ids \t ddc_class_names \t wikipedia_id \t wikipedia_title \t wikipedia_text
 ```
 
 ### Cite
@@ -12,7 +13,8 @@ T. Uslu, A. Mehler, and D. Baumartz, “Computing Classifier-based Embeddings wi
 
 ### BibTeX
 
-```@inproceedings{Uslu:Mehler:Baumartz:2019,
+```
+@inproceedings{Uslu:Mehler:Baumartz:2019,
   author = "Uslu, Tolga and Mehler, Alexander and Baumartz, Daniel",
   booktitle = "{Proceedings of the 20th International Conference on Computational Linguistics and Intelligent Text Processing}",
   location = "La Rochelle, France",

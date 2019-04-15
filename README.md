@@ -7,6 +7,8 @@ The corpus contains DDC-annotated Wikipedia files for 46 languages in the follow
 ```
 ddc_ids \t ddc_class_names \t wikipedia_id \t wikipedia_title \t wikipedia_text
 ```
+### Download
+Download the text2ddc corpus on [CLARIN VLO](https://vlo.clarin.eu/record?2&count=1&docId=21.11105_47_0000-000B-D967-D&index=0).
 
 ### Cite
 T. Uslu, A. Mehler, and D. Baumartz, “Computing Classifier-based Embeddings with the Help of text2ddc,” in Proceedings of the 20th International Conference on Computational Linguistics and Intelligent Text Processing, 2019. accepted
